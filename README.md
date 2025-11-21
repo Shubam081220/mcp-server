@@ -41,7 +41,7 @@ The server provides 7 powerful database tools:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ramxcodes/mcp-server.git
+git clone https://github.com/Shubam081220/mcp-server.git
 cd mcp-server
 ```
 
@@ -240,6 +240,6 @@ If you have any questions or need help, please:
 
 ---
 
-**Built with ❤️ by [Ramkrishna Swarnkar](https://ramx.in)**
+**Built with ❤️ by [Shubam Lunawat](https://mcp-server-vercel.app)**
 
-Portfolio: [https://ramx.in](https://ramx.in) | GitHub: [@ramxcodes](https://github.com/ramxcodes)
+Portfolio: [https://mcp-server-vercel.app](https://mcp-server-vercel.app) | GitHub: [@Shubam081220](https://github.com/Shubam081220)

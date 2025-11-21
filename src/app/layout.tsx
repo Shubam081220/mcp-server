@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "AppWrite MCP Server | Ramxcodes",
-  description: "AppWrite MCP Server | Ramxcodes",
+  title: "AppWrite MCP Server | Shubam Lunawat",
+  description: "AppWrite MCP Server | Shubam Lunawat",
 };
 
 export default function RootLayout({

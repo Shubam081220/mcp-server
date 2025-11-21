@@ -60,7 +60,7 @@ export default function LinkAndInfo() {
                 className="w-full bg-white text-black hover:bg-slate-200 font-semibold text-lg py-6"
               >
                 <a
-                  href="https://github.com/ramxcodes/mcp-server"
+                  href="https://github.com/Shubam081220/mcp-server"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -76,10 +76,10 @@ export default function LinkAndInfo() {
                 Built with ❤️ by{" "}
                 <Link
                   className="underline"
-                  href="https://ramx.in"
+                  href="https://mcp-server-vercel.app"
                   target="_blank"
                 >
-                  Ram
+                  Shubam 
                 </Link>
               </p>
             </div>
@@ -96,7 +96,7 @@ export default function LinkAndInfo() {
         className="text-center mt-20 pt-12 border-t border-slate-800"
       >
         <p className="text-slate-500 text-sm">
-          © 2025 Ramxcodes. All rights reserved.
+          © 2025 Shubam Lunawat. All rights reserved.
         </p>
       </motion.div>
     </section>

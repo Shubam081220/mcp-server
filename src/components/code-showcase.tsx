@@ -18,7 +18,7 @@ const handler = createMcpHandler(
     // Creator Info Tool
     server.tool(
       "creatorInfo",
-      "Get detailed information about Ramkrishna Swarnkar - Full Stack Developer and Open Source Contributor",
+      "Get detailed information about Shubam Lunawat - Full Stack Developer and Data Analyst",
       {},
       async () => ({
         content: [
@@ -187,7 +187,7 @@ const handler = createMcpHandler(
       tools: {
         creatorInfo: {
           description:
-            "Get detailed information about Ramkrishna Swarnkar",
+            "Get detailed information about Shubam Lunawat",
         },
         getDocument: {
           description:

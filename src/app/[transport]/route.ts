@@ -7,13 +7,13 @@ const handler = createMcpHandler(
     // Creator Info Tool
     server.tool(
       "creatorInfo",
-      "Get detailed information about Ramkrishna Swarnkar - Full Stack Developer and Open Source Contributor",
+      "Get detailed information about Shubam Lunawat - Full Stack Developer and Data Analyst",
       {},
       async () => ({
         content: [
           {
             type: "text" as const,
-            text: `# Ramkrishna Swarnkar
+            text: `# Shubam Lunawat
             🚀 Full Stack Web Developer & Open Source Contributor
 
             ## About Me
@@ -28,12 +28,12 @@ const handler = createMcpHandler(
             **Other:** UI/UX Design, Three.js 3D Development
 
             ## 🌐 Connect With Me
-            **Portfolio:** https://ramx.in
-            **Resume:** https://www.ramx.in/resume
-            **GitHub:** https://github.com/ramxcodes
-            **LinkedIn:** https://www.linkedin.com/in/ramxcodes/
-            **Twitter/X:** https://x.com/ramxcodes
-            **Email:** ramxcodes@gmail.com
+            **Portfolio:** https://mcp-server-vercel.app
+            **Resume:** #TODO
+            **GitHub:** https://github.com/Shubam081220
+            **LinkedIn:** https://www.linkedin.com/in/shubam-lunawat/
+            **Twitter/X:** https://x.com/Shub48349
+            **Email:** shubamlunawat@gmail.com
 
             ## 💼 Work Experience
 
@@ -245,7 +245,7 @@ const handler = createMcpHandler(
       tools: {
         creatorInfo: {
           description:
-            "Get detailed information about Ramkrishna Swarnkar - Full Stack Developer and Open Source Contributor (Creator of this tool).",
+            "Get detailed information about Shubam Lunawat - Full Stack Developer and Data Analyst.",
         },
         getDocument: {
           description:

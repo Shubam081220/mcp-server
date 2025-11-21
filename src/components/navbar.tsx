@@ -116,7 +116,7 @@ export default function Navbar() {
                 className="relative bg-slate-800/50 hover:bg-slate-700/50 text-white border border-slate-600/50 hover:border-slate-500/50 shadow-lg overflow-hidden group"
                 onClick={() =>
                   window.open(
-                    "https://github.com/ramxcodes/mcp-server",
+                    "https://github.com/Shubam081220/mcp-server",
                     "_blank"
                   )
                 }
@@ -191,7 +191,7 @@ export default function Navbar() {
                 >
                   <Button
                     className="w-full bg-slate-800/50 hover:bg-slate-700/50 text-white border border-slate-600/50 hover:border-slate-500/50 shadow-lg"
-                    onClick={() => window.open("https://github.com", "_blank")}
+                    onClick={() => window.open("https://github.com/Shubam081220/mcp-server", "_blank")}
                   >
                     <span className="flex items-center justify-center gap-2">
                       <Github className="w-4 h-4" />
